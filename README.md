@@ -11,14 +11,14 @@ perubahan tersebut antara lain, perubahan pengucapan/pelafalan, bentuk kata.
 
 | Bahasa Indonesia |  	Bahasa Minang |
 |------------------| -----------------|
-|	kucing |							kuciang|
-	|kambing 						|kambiang|
-	|keling| 							kaliang|
-	|piring							|piriang|
-	|pening|							paniang|
-	|lading 							|ladiang|
-	|kering|							kariang|
-	|------|---------------------|
+| kucing | kuciang |
+| kambing | kambiang |
+| keling | kaliang |
+| piring | piriang |
+| pening | paniang |
+| lading | ladiang |
+| kering | kariang |
+|------|---------------------|
 
 program ini membalikkan bentuk bahasa Indonesia serapan bahasa Minang ke bentuk asalnya.
 
